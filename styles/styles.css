@@ -78,6 +78,7 @@ body {
   font-family: var(--body-font-family);
   font-size: var(--body-font-size-m);
   line-height: 1.6;
+  background: yellow !important;
 }
 
 body.appear {
@@ -322,8 +323,4 @@ main .section.highlight {
   background-color: var(--light-color);
   margin: 0;
   padding: 40px 0;
-}
-
-body {
-  background: yellow !important;
 }
