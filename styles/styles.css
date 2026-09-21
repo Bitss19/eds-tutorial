@@ -73,12 +73,11 @@
 body {
   display: none;
   margin: 0;
-  background-color: var(--background-color);
+  background-color: yellow !important;
   color: var(--text-color);
   font-family: var(--body-font-family);
   font-size: var(--body-font-size-m);
   line-height: 1.6;
-  background: yellow !important;
 }
 
 body.appear {
